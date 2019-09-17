@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="65" started-at="2019-09-17T03:00:51Z" finished-at="2019-09-17T03:00:51Z">
+  <suite name="Default suite" duration-ms="62" started-at="2019-09-17T03:24:33Z" finished-at="2019-09-17T03:24:33Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="65" started-at="2019-09-17T03:00:51Z" finished-at="2019-09-17T03:00:51Z">
+    <test name="Default test" duration-ms="62" started-at="2019-09-17T03:24:33Z" finished-at="2019-09-17T03:24:33Z">
       <class name="com.org.learningmaven.Facebook.CNN">
-        <test-method status="PASS" signature="cnn_test()[pri:0, instance:com.org.learningmaven.Facebook.CNN@14acaea5]" name="cnn_test" duration-ms="24" started-at="2019-09-17T03:00:51Z" finished-at="2019-09-17T03:00:51Z">
+        <test-method status="PASS" signature="cnn_test()[pri:0, instance:com.org.learningmaven.Facebook.CNN@14acaea5]" name="cnn_test" duration-ms="20" started-at="2019-09-17T03:24:33Z" finished-at="2019-09-17T03:24:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cnn_test -->
